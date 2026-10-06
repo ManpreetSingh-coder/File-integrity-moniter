@@ -1,0 +1,4 @@
+hash_test
+baseline.txt
+newfile.txt
+*.o
